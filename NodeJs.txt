@@ -1,0 +1,12 @@
+Why learn NodeJs?
+
+Focus on one programming lang i.e Backend/frontend
+Extremely fast 
+Utilizes Google's V8 engine written in C++ 
+V8 compiles JS code into machine code.
+Great for building realtime applications.
+Constantly growing/expanding.
+Build Web, Mobile and Desktop Apps
+Robotics and Machine Learning 
+High in demand in present and future
+NPM-The world's largest library for open source packages.
