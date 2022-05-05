@@ -10,3 +10,9 @@ Build Web, Mobile and Desktop Apps
 Robotics and Machine Learning 
 High in demand in present and future
 NPM-The world's largest library for open source packages.
+
+node-v (shows the version of your node)
+
+REPL (read evaluate print loop)
+
+global (object in nodejs that represents the document)
